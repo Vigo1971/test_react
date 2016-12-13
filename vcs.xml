@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Vigo1971/test_react" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Vigo1971/test_repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\OpenServer\domains" />
