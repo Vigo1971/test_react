@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcbc57ae-13eb-436c-86e2-ada5d24c0713" name="TimeWeb" url="http://asper.timeweb.ru">
+        <fileTransfer host="asper.timeweb.ru" port="21" rootFolder="/convertator.ru/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="df77b49a-e05e-47bc-8450-8db1b2b523c1" name="convertator.ru" url="http://asper.timeweb.ru">
+        <fileTransfer host="asper.timeweb.ru" port="21" rootFolder="/convertator.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA8MIlUKhiciYSaf0UbTqT6Dp7Pqp20J1SCERdD0JnoRcScYJ/FDXHgMpkeRA0/ttDG+22Lju3sbKdP1XPbCPwTXl9zD3sB5D6C9Mc/iWOH/7CT4eS1v6T9DiuNQO/dXsGPhebjKji6e61SqKZXkGty16Wzf+Q5kBJiKRgH0MG1MG1t748xEoSrgzDq14St9cWr8SZJPkwmUZtTd5Oi31/6mY5PAxXbkc/szdw6p1b9ux/hBU6uxC/vN1PxpdmTHZ9n6o8lZ5hmOFEMatjEa4smmSk+z9ZRJywXaW1cjEezwM/t+Imu1qBaNJWsbq81pRj4TcXyONcEk+6nlvdl+vGE8c=</data>
+  </component>
+</application>
