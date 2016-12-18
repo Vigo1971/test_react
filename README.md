@@ -1,2 +1,2 @@
 # test_react
-по курсу ReactJS
+по курсу **ReactJS**
